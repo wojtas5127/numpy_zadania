@@ -40,4 +40,9 @@ import numpy as np
 
 #zad6
 
+#zad7
+
+#zad8
+
+#zad9
 
